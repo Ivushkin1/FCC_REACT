@@ -61,3 +61,11 @@ handleChange(event){
     );
   }
 };
+
+///////////////////////////////////////////////////
+                              componentWillMount()                    method is called before the render()
+                              
+                              componentDidMount().                  This method is called after a component is mounted to the DOM
+                              
+                              
+                              
